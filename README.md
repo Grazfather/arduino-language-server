@@ -64,7 +64,7 @@ In order to ease code reviews and have your contributions merged faster, here is
 
 To build the Arduino Language Server you need:
 
-- [Go][go-install] version 1.12 or later
+- [Go][go-install] version 1.21.5 or later
 
 The project doesn't require `CGO` so it can be easily crosscompiled if necessary. To build for you machine just run:
 
